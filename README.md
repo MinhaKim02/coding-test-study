@@ -12,6 +12,7 @@
 |---|---|
 | SQL | 32 |
 | Python | 8 |
+| Java | 1 |
 
 ## 노트
 
@@ -24,7 +25,7 @@
 ```
 sql/      select · group-by · join · string-date
 python/   hash · stack-queue · sort · greedy · brute-force · dfs-bfs
-java/     (예정) Python으로 푼 문제를 Java로 다시 풀기
+java/     basics · Python으로 푼 문제를 Java로 다시 풀기
 notes/    요약 · 실수 모음
 ```
 
@@ -77,3 +78,9 @@ notes/    요약 · 실수 모음
 | 스택/큐 | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906) | Lv.1 | [보기](python/stack-queue/12906_같은-숫자는-싫어.md) |
 | 정렬 | [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) | Lv.1 | [보기](python/sort/42748_K번째수.md) |
 | DFS/BFS | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | Lv.2 | [보기](python/dfs-bfs/43165_타겟-넘버.md) |
+
+## Java
+
+| 유형 | 문제 | 레벨 | 정리 |
+|---|---|---|---|
+| 기초 | [홀짝 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/181944) | Lv.0 | [보기](java/basics/181944_홀짝-구분하기.md) |
