@@ -12,7 +12,7 @@
 |---|---|
 | SQL | 32 |
 | Python | 8 |
-| Java | 3 |
+| Java | 4 |
 
 ## 노트
 
@@ -86,3 +86,4 @@ notes/    요약 · 실수 모음
 | 기초 | [홀짝 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/181944) | Lv.0 | [보기](java/basics/181944_홀짝-구분하기.md) |
 | 기초 | [문자열 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181952) | Lv.0 | [보기](java/basics/181952_문자열-출력하기.md) |
 | 기초 | [a와 b 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181951) | Lv.0 | [보기](java/basics/181951_a와-b-출력하기.md) |
+| 기초 | [문자열 반복해서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181950) | Lv.0 | [보기](java/basics/181950_문자열-반복해서-출력하기.md) |
