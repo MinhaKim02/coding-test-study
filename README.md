@@ -10,7 +10,7 @@
 
 | 언어 | 문제 수 |
 |---|---|
-| SQL | 31 |
+| SQL | 32 |
 | Python | 8 |
 
 ## 노트
@@ -62,6 +62,7 @@ notes/    요약 · 실수 모음
 | JOIN | [조건에 맞는 사원 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284527) | Lv.3 | [보기](sql/join/284527_조건에-맞는-사원-정보-조회하기.md) |
 | JOIN | [주문량이 많은 아이스크림들 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/133027) | Lv.4 | [보기](sql/join/133027_주문량이-많은-아이스크림들-조회하기.md) |
 | JOIN | [특정 기간동안 대여 가능한 자동차들의 대여비용 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157339) | Lv.4 | [보기](sql/join/157339_특정-기간동안-대여-가능한-자동차들의-대여비용-구하기.md) |
+| String, Date | [특정 옵션이 포함된 자동차 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157343) | Lv.1 | [보기](sql/string-date/157343_특정-옵션이-포함된-자동차-리스트-구하기.md) |
 | String, Date | [조건에 맞는 도서와 저자 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144854) | Lv.2 | [보기](sql/string-date/144854_조건에-맞는-도서와-저자-리스트-출력하기.md) |
 
 ## Python
