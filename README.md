@@ -10,7 +10,7 @@
 
 | 언어 | 문제 수 |
 |---|---|
-| SQL | 33 |
+| SQL | 34 |
 | Python | 8 |
 | Java | 5 |
 
@@ -57,6 +57,7 @@ notes/    요약 · 실수 모음
 | GROUP BY | [년, 월, 성별 별 상품 구매 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131532) | Lv.4 | [보기](sql/group-by/131532_년-월-성별-별-상품-구매-회원-수-구하기.md) |
 | GROUP BY | [연간 평가점수에 해당하는 평가 등급 및 성과금 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284528) | Lv.4 | [보기](sql/group-by/284528_연간-평가점수에-해당하는-평가-등급-및-성과금-조회하기.md) |
 | GROUP BY | [부서별 평균 연봉 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284529) | Lv.4 | [보기](sql/group-by/284529_부서별-평균-연봉-조회하기.md) |
+| JOIN | [부모의 형질을 모두 가지는 대장균 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/301647) | Lv.2 | [보기](sql/join/301647_부모의-형질을-모두-가지는-대장균-찾기.md) |
 | JOIN | [상품 별 오프라인 매출 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131533) | Lv.2 | [보기](sql/join/131533_상품-별-오프라인-매출-구하기.md) |
 | JOIN | [없어진 기록 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59042) | Lv.3 | [보기](sql/join/59042_없어진-기록-찾기.md) |
 | JOIN | [있었는데요 없었습니다](https://school.programmers.co.kr/learn/courses/30/lessons/59043) | Lv.3 | [보기](sql/join/59043_있었는데요-없었습니다.md) |
