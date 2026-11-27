@@ -10,7 +10,7 @@
 
 | 언어 | 문제 수 |
 |---|---|
-| SQL | 32 |
+| SQL | 33 |
 | Python | 8 |
 | Java | 5 |
 
@@ -33,6 +33,7 @@ notes/    요약 · 실수 모음
 
 | 유형 | 문제 | 레벨 | 정리 |
 |---|---|---|---|
+| SELECT | [인기있는 아이스크림](https://school.programmers.co.kr/learn/courses/30/lessons/133024) | Lv.1 | [보기](sql/select/133024_인기있는-아이스크림.md) |
 | SELECT | [평균 일일 대여 요금 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151136) | Lv.1 | [보기](sql/select/151136_평균-일일-대여-요금-구하기.md) |
 | GROUP BY | [고양이와 개는 몇 마리 있을까](https://school.programmers.co.kr/learn/courses/30/lessons/59040) | Lv.2 | [보기](sql/group-by/59040_고양이와-개는-몇-마리-있을까.md) |
 | GROUP BY | [동명 동물 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59041) | Lv.2 | [보기](sql/group-by/59041_동명-동물-수-찾기.md) |
