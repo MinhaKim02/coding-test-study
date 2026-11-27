@@ -12,7 +12,7 @@
 |---|---|
 | SQL | 32 |
 | Python | 8 |
-| Java | 4 |
+| Java | 5 |
 
 ## 노트
 
@@ -87,3 +87,4 @@ notes/    요약 · 실수 모음
 | 기초 | [문자열 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181952) | Lv.0 | [보기](java/basics/181952_문자열-출력하기.md) |
 | 기초 | [a와 b 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181951) | Lv.0 | [보기](java/basics/181951_a와-b-출력하기.md) |
 | 기초 | [문자열 반복해서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181950) | Lv.0 | [보기](java/basics/181950_문자열-반복해서-출력하기.md) |
+| 기초 | [대소문자 바꿔서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181949) | Lv.0 | [보기](java/basics/181949_대소문자-바꿔서-출력하기.md) |

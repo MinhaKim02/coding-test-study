@@ -35,3 +35,13 @@
 | `set = {}` | `s = set()` | 1845 |
 | `answer[i] = …` (빈 문자열) | `answer += …` | kt ds 코테 |
 | 입력 모양 확인 없이 인덱스 접근 → IndexError | 시작 전에 `print(a, type(a), len(a))` | kt ds 코테 |
+
+## Java
+
+| 실수 | 바르게 | 문제 |
+|---|---|---|
+| 파이썬처럼 `str * n` | `str.repeat(n)` 또는 for문 | 181950 |
+| `for (i = 0; …)` | `for (int i = 0; …)` | 181949 |
+| `str[i]` | `str.charAt(i)` | 181949 |
+| `Chracter` 오타 | `Character` | 181949 |
+| 선언 안 한 변수 이름 사용 | 입력받은 변수 이름 그대로 | 181949 |
